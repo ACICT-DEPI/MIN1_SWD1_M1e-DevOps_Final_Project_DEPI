@@ -11,6 +11,7 @@ const Router = createBrowserRouter(routers)
 
 function App() {
 
+  console.log("from the react app");
   return (
     <>
      <AdminProvider>
